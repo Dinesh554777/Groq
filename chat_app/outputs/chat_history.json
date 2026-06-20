@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-06-20 12:55:48",
+    "user": "Say hello in one short sentence.",
+    "assistant": "Hello."
+  },
+  {
+    "timestamp": "2026-06-20 12:59:42",
+    "user": "hi",
+    "assistant": "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"
+  }
+]
