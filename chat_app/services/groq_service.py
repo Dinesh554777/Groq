@@ -8,7 +8,7 @@ def generate_response(message):
     and user message using Llama 4 Scout.
     """
     # 1. API key validation
-    if not GROQ_API_KEY or GROQ_API_KEY == "YOUR_API_KEY":
+    if not GROQ_API_KEY:
         raise ValueError("Groq API Key is not configured. Please set GROQ_API_KEY in a .env file or config.py.")
 
     # 2. Input message validation
